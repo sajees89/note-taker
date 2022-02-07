@@ -32,7 +32,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Check out the the deployed app here: [Note Taker](https://note-taker-sj2.herokuapp.com/)
 
 ### Screenshots
-![screenshot]()
+![screenshot](https://github.com/sajees89/note-taker/blob/main/public/assets/img/note-taker-ss.png)
 
 ### Contact
 [Sajees Jeya on GitHub](https://github.com/sajees89)
