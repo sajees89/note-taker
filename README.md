@@ -29,15 +29,10 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column  
 
 ### Website Link
-
-
-
-
+Check out the the deployed app here: [Note Taker](https://note-taker-sj2.herokuapp.com/)
 
 ### Screenshots
-
-
-
+![screenshot]()
 
 ### Contact
 [Sajees Jeya on GitHub](https://github.com/sajees89)
